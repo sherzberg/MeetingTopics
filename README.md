@@ -20,3 +20,6 @@
   - Itertools
   - Functools
   - Coroutines
+* Language Processing
+  - Simple Processing with [`TextBlob`](https://textblob.readthedocs.org)
+  - Advanced Processing with [`NLTK`](http://nltk.org')
